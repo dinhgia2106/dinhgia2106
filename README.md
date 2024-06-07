@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm GrazT A.K.A Tran Gia! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/dinhgia2106?label=Follow&style=social)](https://github.com/dinhgia2106) 
 [![Linkedin: GrazT](https://img.shields.io/badge/-grazt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grazt/)](https://www.linkedin.com/in/grazt/)
