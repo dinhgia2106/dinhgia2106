@@ -28,15 +28,15 @@ Here are a few projects I've been working on:
 
 ## Skills
 
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) **Python**
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) **scikit-learn**
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) **TensorFlow**
-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white) **Keras**
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) **PyTorch**
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) **Pandas**
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white) **NumPy**
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=black) **Matplotlib**
-- ![Seaborn](https://img.shields.io/badge/Seaborn-FFFFFF?style=flat&logoColor=blue) **Seaborn**
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) 
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white) 
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) 
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white) 
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=black) 
+- ![Seaborn](https://img.shields.io/badge/Seaborn-FFFFFF?style=flat&logoColor=blue) 
 
 ## Get in Touch
 
