@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/dinhgia2106?label=Follow&style=social)](https://github.com/dinhgia2106) 
 [![Linkedin: GrazT](https://img.shields.io/badge/-grazt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grazt/)](https://www.linkedin.com/in/grazt/)
 
-![Header](https://png.pngtree.com/thumb_back/fh260/background/20230722/pngtree-stunning-3d-illustration-featuring-a-white-oriental-dragon-silhouette-adorned-with-image_3775293.jpg)
+![Header](https://camo.githubusercontent.com/2d25116b341cf595a9ac9a8d726eb4b2c7cc25f4e6ec42618891a6535cc59938/68747470733a2f2f706e672e706e67747265652e636f6d2f7468756d625f6261636b2f66683236302f6261636b67726f756e642f32303233303732322f706e67747265652d7374756e6e696e672d33642d696c6c757374726174696f6e2d666561747572696e672d612d77686974652d6f7269656e74616c2d647261676f6e2d73696c686f75657474652d61646f726e65642d776974682d696d6167655f333737353239332e6a7067)
 
 Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and continuously learning to push the boundaries of technology.
 
