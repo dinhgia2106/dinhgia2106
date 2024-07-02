@@ -20,7 +20,7 @@ I'm currently studying AI and focusing on various aspects such as Machine Learni
 
 Here are a few projects I've been working on:
 
-### 1. LOADING
+### 1. [Beer detection model](https://github.com/dinhgia2106/Beer-detection-model-by-YOLOv9)
 
 ### 2. LOADING
 
