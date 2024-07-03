@@ -13,7 +13,7 @@ I'm currently studying AI and focusing on various aspects such as Machine Learni
 
 - 🌱 I’m currently learning everything about **Artificial Intelligence**.
 - 💬 Ask me about **Machine Learning**, **Deep Learning**, and **NLP**.
-- 📫 How to reach me: [giafaker2106@gmail.com](mailto:dinhgia2106.com)
+- 📫 How to reach me: [My email](mailto:giafaker2106@gmail.com)
 - ⚡ Fun fact: I love to explore new AI technologies and apply them in innovative projects.
 
 ## Projects
