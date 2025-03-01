@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinh Gia | AI & ML Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="https://img.icons8.com/color/48/000000/artificial-intelligence.png">
+    <!-- AOS Animation Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Dynamic Background with Particles -->
+    <div id="particles-js"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <div class="logo">
+                <a href="#home">DG</a>
+            </div>
+            <div class="menu-toggle" id="mobile-menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#blog" class="nav-link">Blog</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content" data-aos="fade-up">
+                <h1 class="glitch" data-text="Dinh Gia">Dinh Gia</h1>
+                <div class="typing-container">
+                    <span id="typed-output"></span>
+                </div>
+                <div class="social-icons">
+                    <a href="https://twitter.com/dinhgia2106" target="_blank" class="social-icon twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/dinhgia2106/" target="_blank" class="social-icon linkedin">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="https://dinhgia2106.medium.com" target="_blank" class="social-icon medium">
+                        <i class="fab fa-medium-m"></i>
+                    </a>
+                    <a href="mailto:contact@dinhgia2106.com" class="social-icon email">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="https://github.com/dinhgia2106" target="_blank" class="social-icon github">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </div>
+                <div class="cta-buttons">
+                    <a href="#projects" class="btn btn-primary">View Projects</a>
+                    <a href="#contact" class="btn btn-secondary">Contact Me</a>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-down">
+            <a href="#about"><i class="fas fa-chevron-down"></i></a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <h2>About Me</h2>
+                <div class="underline"></div>
+            </div>
+            <div class="about-content">
+                <div class="about-image" data-aos="fade-right">
+                    <div class="image-wrapper">
+                        <img src="https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Dinh Gia" class="profile-image">
+                    </div>
+                </div>
+                <div class="about-text" data-aos="fade-left">
+                    <h3>AI & Machine Learning Engineer</h3>
+                    <p>I'm an AI enthusiast specializing in machine learning and deep learning technologies, with a passion for developing intelligent systems that solve complex real-world problems.</p>
+                    <p>Currently exploring advanced areas in computer vision and natural language processing, I'm dedicated to pushing the boundaries of what's possible with artificial intelligence.</p>
+                    <div class="stats-container">
+                        <div class="stat-item">
+                            <div class="stat-number counter" data-target="5">0</div>
+                            <div class="stat-label">Years Experience</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number counter" data-target="30">0</div>
+                            <div class="stat-label">Projects Completed</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number counter" data-target="15">0</div>
+                            <div class="stat-label">Publications</div>
+                        </div>
+                    </div>
+                    <a href="#" class="btn btn-outline download-cv">
+                        <i class="fas fa-download"></i> Download CV
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <h2>AI Technologies & Tools</h2>
+                <div class="underline"></div>
+            </div>
+            <div class="tech-categories">
+                <div class="category-tabs">
+                    <button class="tab-button active" data-category="all">All</button>
+                    <button class="tab-button" data-category="languages">Languages</button>
+                    <button class="tab-button" data-category="frameworks">Frameworks</button>
+                    <button class="tab-button" data-category="tools">Tools</button>
+                    <button class="tab-button" data-category="cloud">Cloud</button>
+                </div>
+            </div>
+            <div class="skills-container" data-aos="fade-up">
+                <div class="skill-card" data-category="languages">
+                    <div class="skill-icon python">
+                        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python">
+                    </div>
+                    <h3>Python</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 95%;"></div>
+                        </div>
+                        <span>95%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="frameworks">
+                    <div class="skill-icon tensorflow">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+                    </div>
+                    <h3>TensorFlow</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 90%;"></div>
+                        </div>
+                        <span>90%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="frameworks">
+                    <div class="skill-icon pytorch">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
+                    </div>
+                    <h3>PyTorch</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 85%;"></div>
+                        </div>
+                        <span>85%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="tools">
+                    <div class="skill-icon opencv">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV">
+                    </div>
+                    <h3>OpenCV</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 80%;"></div>
+                        </div>
+                        <span>80%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="frameworks">
+                    <div class="skill-icon numpy">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+                    </div>
+                    <h3>NumPy</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 92%;"></div>
+                        </div>
+                        <span>92%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="frameworks">
+                    <div class="skill-icon pandas">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+                    </div>
+                    <h3>Pandas</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 88%;"></div>
+                        </div>
+                        <span>88%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="frameworks">
+                    <div class="skill-icon scikit">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn">
+                    </div>
+                    <h3>Scikit-learn</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 85%;"></div>
+                        </div>
+                        <span>85%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="cloud">
+                    <div class="skill-icon aws">
+                        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS">
+                    </div>
+                    <h3>AWS</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 78%;"></div>
+                        </div>
+                        <span>78%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="tools">
+                    <div class="skill-icon github">
+                        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub">
+                    </div>
+                    <h3>GitHub</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 90%;"></div>
+                        </div>
+                        <span>90%</span>
+                    </div>
+                </div>
+                <div class="skill-card" data-category="tools">
+                    <div class="skill-icon jupyter">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter">
+                    </div>
+                    <h3>Jupyter</h3>
+                    <div class="skill-level">
+                        <div class="progress-bar">
+                            <div class="progress" style="width: 95%;"></div>
+                        </div>
+                        <span>95%</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GitHub Stats Section -->
+    <section id="github-stats" class="github-stats">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <h2>GitHub Statistics</h2>
+                <div class="underline"></div>
+            </div>
+            <div class="stats-grid" data-aos="fade-up">
+                <div class="stat-card">
+                    <h3>Activity Overview</h3>
+                    <img src="https://github-readme-stats.vercel.app/api?username=dinhgia2106&show_icons=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=a8b2d1&bg_color=0a192f" alt="GitHub Stats">
+                </div>
+                <div class="stat-card">
+                    <h3>Languages Used</h3>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgia2106&layout=compact&hide_border=true&title_color=64ffda&text_color=a8b2d1&bg_color=0a192f" alt="Most Used Languages">
+                </div>
+                <div class="stat-card full-width">
+                    <h3>Contribution Streak</h3>
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhgia2106&theme=dark&hide_border=true&background=0a192f&stroke=64ffda&ring=7928ca&fire=7928ca&currStreakLabel=64ffda" alt="GitHub Streak Stats">
+                </div>
+            </div>
+            <div class="github-activity" data-aos="fade-up">
+                <h3>Recent Activity</h3>
+                <div class="activity-timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-icon"><i class="fas fa-code-branch"></i></div>
+                        <div class="timeline-content">
+                            <h4>Merged pull request in deep-learning-project</h4>
+                            <p>Implemented advanced CNN architecture for image segmentation</p>
+                            <span class="time">2 days ago</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-icon"><i class="fas fa-star"></i></div>
+                        <div class="timeline-content">
+                            <h4>Starred TensorFlow repository</h4>
+                            <p>Added TensorFlow to starred repositories</p>
+                            <span class="time">4 days ago</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-icon"><i class="fas fa-code"></i></div>
+                        <div class="timeline-content">
+                            <h4>Created new repository nlp-research</h4>
+                            <p>Research on transformers for natural language understanding</p>
+                            <span class="time">1 week ago</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <h2>Featured AI Projects</h2>
+                <div class="underline"></div>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card" data-aos="fade-up">
+                    <div class="project-image">
+                        <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Deep Learning Project">
+                        <div class="project-overlay">
+                            <div class="project-details">
+                                <h3>Advanced Deep Learning</h3>
+                                <p>A comprehensive implementation of state-of-the-art CNN architectures for computer vision tasks</p>
+                                <div class="project-links">
+                                    <a href="https://github.com/dinhgia2106/deep-learning-project" target="_blank"><i class="fab fa-github"></i></a>
+                                    <a href="#" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-info">
+                        <h3>Advanced Deep Learning</h3>
+                        <div class="project-tags">
+                            <span>PyTorch</span>
+                            <span>Computer Vision</span>
+                            <span>CNN</span>
+                        </div>
+                        <p>Implementation of advanced neural network architectures for image recognition and segmentation tasks.</p>
+                    </div>
+                </div>
+                <div class="project-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="project-image">
+                        <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="NLP Research">
+                        <div class="project-overlay">
+                            <div class="project-details">
+                                <h3>NLP Research</h3>
+                                <p>Research on transformer architectures for advanced natural language understanding</p>
+                                <div class="project-links">
+                                    <a href="https://github.com/dinhgia2106/nlp-research" target="_blank"><i class="fab fa-github"></i></a>
+                                    <a href="#" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-info">
+                        <h3>NLP Research</h3>
+                        <div class="project-tags">
+                            <span>NLP</span>
+                            <span>BERT</span>
+                            <span>Transformers</span>
+                        </div>
+                        <p>Exploring advanced transformer models for natural language understanding and generation.</p>
+                    </div>
+                </div>
+                <div class="project-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="project-image">
+                        <img src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Reinforcement Learning">
+                        <div class="project-overlay">
+                            <div class="project-details">
+                                <h3>Reinforcement Learning Agents</h3>
+                                <p>Implementation of RL algorithms for autonomous decision making</p>
+                                <div class="project-links">
+                                    <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+                                    <a href="#" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-info">
+                        <h3>Reinforcement Learning Agents</h3>
+                        <div class="project-tags">
+                            <span>RL</span>
+                            <span>Deep Q-Learning</span>
+                            <span>OpenAI Gym</span>
+                        </div>
+                        <p>Building intelligent agents that learn optimal policies through interaction with environments.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="view-all-projects" data-aos="fade-up">
+                <a href="https://github.com/dinhgia2106" target="_blank" class="btn btn-primary">View All Projects <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog" class="blog">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <h2>Latest AI Research & Articles</h2>
+                <div class="underline"></div>
+            </div>
+            <div class="blog-posts" data-aos="fade-up">
+                <div class="blog-card">
+                    <div class="blog-img">
+                        <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Blog Post">
+                        <div class="blog-date">
+                            <span>Mar</span>
+                            <span>01</span>
+                        </div>
+                    </div>
+                    <div class="blog-content">
+                        <h3>Advances in Transformer Architectures for NLP</h3>
+                        <p>Exploring recent innovations in transformer models and their applications in solving complex language tasks.</p>
+                        <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="blog-card">
+                    <div class="blog-img">
+                        <img src="https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Blog Post">
+                        <div class="blog-date">
+                            <span>Feb</span>
+                            <span>15</span>
+                        </div>
+                    </div>
+                    <div class="blog-content">
+                        <h3>Computer Vision Techniques for Medical Imaging</h3>
+                        <p>How deep learning models are revolutionizing medical image analysis and diagnosis.</p>
+                        <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="blog-card">
+                    <div class="blog-img">
+                        <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Blog Post">
+                        <div class="blog-date">
+                            <span>Jan</span>
+                            <span>27</span>
+                        </div>
+                    </div>
+                    <div class="blog-content">
+                        <h3>Explainable AI: Making Machine Learning Transparent</h3>
+                        <p>Techniques and approaches for making complex AI models more interpretable and trustworthy.</p>
+                        <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="view-all-posts" data-aos="fade-up">
+                <a href="https://dinhgia2106.medium.com" target="_blank" class="btn btn-secondary">View All Articles <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <h2>Get In Touch</h2>
+                <div class="underline"></div>
+            </div>
+            <div class="contact-content">
+                <div class="contact-info" data-aos="fade-right">
+                    <div class="info-item">
+                        <i class="fas fa-envelope"></i>
+                        <div class="info-details">
+                            <h3>Email</h3>
+                            <p><a href="mailto:contact@dinhgia2106.com">contact@dinhgia2106.com</a></p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <div class="info-details">
+                            <h3>Location</h3>
+                            <p>San Francisco, California</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-share-alt"></i>
+                        <div class="info-details">
+                            <h3>Social Profiles</h3>
+                            <div class="social-links">
+                                <a href="https://twitter.com/dinhgia2106" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.linkedin.com/in/dinhgia2106/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://github.com/dinhgia2106" target="_blank"><i class="fab fa-github"></i></a>
+                                <a href="https://dinhgia2106.medium.com" target="_blank"><i class="fab fa-medium-m"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-form" data-aos="fade-left">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" placeholder="Your Name" required>
+                            <label for="name">Your Name</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" placeholder="Your Email" required>
+                            <label for="email">Your Email</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" id="subject" name="subject" placeholder="Subject" required>
+                            <label for="subject">Subject</label>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" placeholder="Message" rows="5" required></textarea>
+                            <label for="message">Message</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            <span>Send Message</span>
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Support Section -->
+    <section class="support">
+        <div class="container">
+            <div class="support-content" data-aos="fade-up">
+                <h2>Support My Research</h2>
+                <p>If you find my work valuable, consider supporting my ongoing AI research and open source contributions.</p>
+                <a href="https://www.buymeacoffee.com/dinhgia2106" target="_blank" class="btn btn-support">
+                    <i class="fas fa-mug-hot"></i> Buy Me A Coffee
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h2>Dinh Gia</h2>
+                    <p>AI & Machine Learning Engineer</p>
+                </div>
+                <div class="footer-links">
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#skills">Skills</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#blog">Blog</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <a href="https://twitter.com/dinhgia2106" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.linkedin.com/in/dinhgia2106/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/dinhgia2106" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://dinhgia2106.medium.com" target="_blank"><i class="fab fa-medium-m"></i></a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Dinh Gia. All Rights Reserved.</p>
+                <div class="view-counter">
+                    <i class="fas fa-eye"></i> Profile Views: <span id="viewCount">10,354</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    <!-- Back to Top Button -->
+    <a href="#home" class="back-to-top" id="backToTop">
+        <i class="fas fa-arrow-up"></i>
+    </a>
+
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="loader">
+            <div class="loading-animation"></div>
+        </div>
+    </div>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    
+    <!-- Custom JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
