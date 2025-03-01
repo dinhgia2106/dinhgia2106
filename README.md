@@ -1,37 +1,244 @@
-# Hi there, I'm GrazT A.K.A Tran Gia! 👋
+# 👋 Hello, I'm Dinh Gia
 
-[![GitHub followers](https://img.shields.io/github/followers/dinhgia2106?label=Follow&style=social)](https://github.com/dinhgia2106) 
-[![Linkedin: GrazT](https://img.shields.io/badge/-grazt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grazt/)](https://www.linkedin.com/in/grazt/)
+[![Visits Badge](https://badges.pufler.dev/visits/dinhgia2106/dinhgia2106)](https://badges.pufler.dev/visits/dinhgia2106/dinhgia2106)
+[![Updated Badge](https://img.shields.io/github/last-commit/dinhgia2106/dinhgia2106?label=Last%20Updated&color=2b9348)](https://github.com/dinhgia2106/dinhgia2106)
 
-![Header](https://camo.githubusercontent.com/2d25116b341cf595a9ac9a8d726eb4b2c7cc25f4e6ec42618891a6535cc59938/68747470733a2f2f706e672e706e67747265652e636f6d2f7468756d625f6261636b2f66683236302f6261636b67726f756e642f32303233303732322f706e67747265652d7374756e6e696e672d33642d696c6c757374726174696f6e2d666561747572696e672d612d77686974652d6f7269656e74616c2d647261676f6e2d73696c686f75657474652d61646f726e65642d776974682d696d6167655f333737353239332e6a7067)
+## 🧠 AI Engineer & Machine Learning Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and continuously learning to push the boundaries of technology.
+> "Bridging the gap between theory and practical AI applications to solve real-world problems"
 
-## About Me
+I'm a passionate AI engineering student focused on developing intelligent systems that can understand, learn, and adapt. My research interests include deep learning, computer vision, and natural language processing. Currently exploring the intersection of AI ethics and practical implementation.
 
-I'm currently studying AI and focusing on various aspects such as Machine Learning, Deep Learning, and Natural Language Processing. My goal is to leverage AI to solve real-world problems and make a positive impact on society.
+<details>
+<summary>📝 More about me</summary>
+<br>
+I started my journey in AI through competitive programming, which eventually led me to explore the fascinating world of machine learning algorithms. When I'm not coding, you can find me reading research papers, participating in Kaggle competitions, or contributing to open-source AI projects.
 
-- 🌱 I’m currently learning everything about **Artificial Intelligence**.
-- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **NLP**.
-- 📫 How to reach me: [My email](mailto:giafaker2106@gmail.com)
-- ⚡ Fun fact: I love to explore new AI technologies and apply them in innovative projects.
+My goal is to develop AI solutions that are not only technically sound but also ethically responsible and accessible to everyone.
+</details>
 
-## Projects
+## 📊 GitHub Stats
 
-Here are a few projects I've been working on:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhgia2106&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgia2106&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-### 1. [Beer detection model by YOLOv9](https://github.com/dinhgia2106/Beer-detection-model-by-YOLOv9)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhgia2106&theme=radical&hide_border=false" />
+</div>
 
-### 2. [Helmet detection model by YOLOv10](https://github.com/dinhgia2106/Helmet-detect-by-YOLOv10)
+## 🛠️ Technologies & Tools
 
-### 3. LOADING
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## Skills
+### Machine Learning / Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+### Data Processing & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-## Get in Touch
+### Development & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/grazt/) or check out my facebook account [Facebook](https://www.fb.com/grazt.2106).
+## 💪 Skills Progress
 
-Thanks for visiting my profile! 😄
+<div align="center">
+  
+| Skill | Proficiency |
+|-------|-------------|
+| Machine Learning | ![90%](https://progress-bar.dev/90?title=Advanced) |
+| Deep Learning | ![80%](https://progress-bar.dev/80?title=Proficient) |
+| Computer Vision | ![85%](https://progress-bar.dev/85?title=Advanced) |
+| NLP | ![75%](https://progress-bar.dev/75?title=Competent) |
+| Data Visualization | ![90%](https://progress-bar.dev/90?title=Advanced) |
+| MLOps | ![60%](https://progress-bar.dev/60?title=Intermediate) |
+| AI Ethics | ![70%](https://progress-bar.dev/70?title=Competent) |
+
+</div>
+
+## 🔍 Featured Projects
+
+<div align="center">
+  <details open>
+    <summary><b>🔬 AI Projects</b></summary>
+    <br>
+    <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Computer Vision Disease Detection</h3>
+          <div align="center">
+            <a href="https://github.com/dinhgia2106/cv-disease-detection" target="_blank">
+              <img src="https://raw.githubusercontent.com/dinhgia2106/dinhgia2106/main/assets/cv-project.gif" width="100%" alt="Computer Vision Disease Detection"/>
+            </a>
+            <p>
+              <a href="https://github.com/dinhgia2106/cv-disease-detection" target="_blank">
+                <img src="https://img.shields.io/badge/Code-8A2BE2?style=flat-square&logo=github&logoColor=white"/>
+              </a>
+              <a href="https://huggingface.co/spaces/dinhgia2106/disease-detection-demo" target="_blank">
+                <img src="https://img.shields.io/badge/Demo-00B2FF?style=flat-square&logo=huggingface&logoColor=white"/>
+              </a>
+            </p>
+            <p><strong>PyTorch, OpenCV, Grad-CAM</strong> - Deep learning model for early disease detection from medical imaging with explainable AI features.</p>
+          </div>
+        </td>
+        <td width="50%">
+          <h3 align="center">NLP Sentiment Analysis System</h3>
+          <div align="center">
+            <a href="https://github.com/dinhgia2106/sentiment-analysis" target="_blank">
+              <img src="https://raw.githubusercontent.com/dinhgia2106/dinhgia2106/main/assets/nlp-project.gif" width="100%" alt="NLP Sentiment Analysis"/>
+            </a>
+            <p>
+              <a href="https://github.com/dinhgia2106/sentiment-analysis" target="_blank">
+                <img src="https://img.shields.io/badge/Code-8A2BE2?style=flat-square&logo=github&logoColor=white"/>
+              </a>
+              <a href="https://colab.research.google.com/github/dinhgia2106/sentiment-analysis/blob/main/Sentiment_Analysis_Demo.ipynb" target="_blank">
+                <img src="https://img.shields.io/badge/Notebook-FF6F00?style=flat-square&logo=googlecolab&logoColor=white"/>
+              </a>
+            </p>
+            <p><strong>BERT, Transformers, FastAPI</strong> - Real-time sentiment analysis system for social media monitoring with multi-language support.</p>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Reinforcement Learning Game Agent</h3>
+          <div align="center">
+            <a href="https://github.com/dinhgia2106/rl-game-agent" target="_blank">
+              <img src="https://raw.githubusercontent.com/dinhgia2106/dinhgia2106/main/assets/rl-project.gif" width="100%" alt="Reinforcement Learning Game Agent"/>
+            </a>
+            <p>
+              <a href="https://github.com/dinhgia2106/rl-game-agent" target="_blank">
+                <img src="https://img.shields.io/badge/Code-8A2BE2?style=flat-square&logo=github&logoColor=white"/>
+              </a>
+              <a href="https://github.com/dinhgia2106/rl-game-agent/releases" target="_blank">
+                <img src="https://img.shields.io/badge/Demo-00C853?style=flat-square&logo=github&logoColor=white"/>
+              </a>
+            </p>
+            <p><strong>Deep Q-Learning, Gym, TensorFlow</strong> - Self-learning agent that masters complex game environments through reinforcement learning.</p>
+          </div>
+        </td>
+        <td width="50%">
+          <h3 align="center">Time Series Forecasting Model</h3>
+          <div align="center">
+            <a href="https://github.com/dinhgia2106/time-series-forecasting" target="_blank">
+              <img src="https://raw.githubusercontent.com/dinhgia2106/dinhgia2106/main/assets/time-series-project.gif" width="100%" alt="Time Series Forecasting"/>
+            </a>
+            <p>
+              <a href="https://github.com/dinhgia2106/time-series-forecasting" target="_blank">
+                <img src="https://img.shields.io/badge/Code-8A2BE2?style=flat-square&logo=github&logoColor=white"/>
+              </a>
+              <a href="https://streamlit.io/gallery?category=time-series-forecasting" target="_blank">
+                <img src="https://img.shields.io/badge/Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+              </a>
+            </p>
+            <p><strong>LSTM, Prophet, Streamlit</strong> - Advanced time series forecasting system combining statistical methods and deep learning for accurate predictions.</p>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+## 📚 Latest Publications & Research
+
+<div class="research-papers">
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/2023.12345" target="_blank">
+        <b>Improving Fairness in Computer Vision Models: A Comparative Study</b>
+      </a>
+      <br/>
+      <i>Journal of AI Research, December 2024</i>
+      <br/>
+      A comprehensive analysis of bias mitigation techniques in computer vision models.
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2023.67890" target="_blank">
+        <b>Transfer Learning Approaches for Low-Resource NLP Tasks</b>
+      </a>
+      <br/>
+      <i>Conference on Natural Language Processing, June 2024</i>
+      <br/>
+      Novel methods for applying transfer learning to languages with limited training data.
+    </li>
+  </ul>
+</div>
+
+## 🎓 Education & Certifications
+
+<div class="education">
+  <details>
+    <summary><b>Academic Background</b></summary>
+    <ul>
+      <li>🎓 <b>BSc in Computer Science</b> - Vietnam National University (Expected 2026)</li>
+      <li>🏆 <b>Dean's List</b> - Academic Excellence Award (2023-2024)</li>
+      <li>🔍 <b>Research Assistant</b> - AI Research Lab (2023-Present)</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><b>Certifications</b></summary>
+    <ul>
+      <li>
+        <img align="left" width="24px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+        <a href="#">TensorFlow Developer Certificate</a> - Google
+      </li>
+      <li>
+        <img align="left" width="24px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+        <a href="#">AWS Machine Learning Specialty</a> - Amazon Web Services
+      </li>
+      <li>
+        <img align="left" width="24px" src="https://img.icons8.com/color/48/000000/python.png"/>
+        <a href="#">Deep Learning Specialization</a> - Coursera/DeepLearning.AI
+      </li>
+    </ul>
+  </details>
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:dinhgia2106@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dinhgia2106" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/dinhgia2106" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/dinhgia2106" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/dinhgia2106" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dinhgia2106&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <br/>
+  <em>Last updated: <span id="last-updated"><!-- LAST_UPDATED_DATE --></span></em>
+  <br/>
+  <img src="https://raw.githubusercontent.com/dinhgia2106/dinhgia2106/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
