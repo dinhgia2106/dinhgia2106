@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Enables manual trigger
+
+jobs:
+  update-readme:
+    name: Update README with latest activity
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update recent GitHub activity"
+          MAX_LINES: 5
+
+      - name: Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@dinhgia2106" # Replace with your actual feed URL
+          max_post_count: 5
+          commit_message: "Update AI research and blog posts"

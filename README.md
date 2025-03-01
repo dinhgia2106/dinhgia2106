@@ -1,119 +1,103 @@
-# Dinh Gia - AI & Machine Learning Engineer Portfolio
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Dinh%20Gia&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-A modern, interactive portfolio website for showcasing AI and machine learning expertise.
+<p align="center">
+  <a href="https://github.com/dinhgia2106"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Deep+Learning+Researcher;Language+Model+Engineer;Computer+Vision+Specialist;Reinforcement+Learning+Enthusiast;Neural+Network+Architect" alt="Typing SVG" /></a>
+</p>
 
-![Portfolio Preview](preview.png)
+<div align="center">
+  <a href="https://twitter.com/dinhgia2106"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dinhgia2106/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://dinhgia2106.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:contact@dinhgia2106.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-## Features
+<br>
 
-- Responsive design works on all devices
-- Dark/light theme toggle
-- Interactive particle background
-- Dynamic typing effect
-- Animated counters and statistics
-- Skill and project filtering
-- Contact form
-- Smooth animations
-- GitHub statistics integration
-- Modern UI with cohesive color scheme
+<div align="center">
+  <h3>⚡ AI EXPERTISE</h3>
+  <p>
+    Building intelligent systems that understand, learn, and evolve.<br>
+    From neural architectures to ethical AI deployment.
+  </p>
+</div>
 
-## Getting Started
+<hr>
 
-### Prerequisites
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="120" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow" class="animate-pulse" />
+        <br>TensorFlow
+      </td>
+      <td width="120" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch" class="animate-bounce" />
+        <br>PyTorch
+      </td>
+      <td width="120" align="center">
+        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="45" alt="Hugging Face" class="animate-spin" />
+        <br>Hugging Face
+      </td>
+      <td width="120" align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" alt="scikit-learn" />
+        <br>scikit-learn
+      </td>
+    </tr>
+    <tr>
+      <td width="120" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" />
+        <br>Python
+      </td>
+      <td width="120" align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="45" alt="Deep Learning" />
+        <br>Deep Learning
+      </td>
+      <td width="120" align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="45" alt="Computer Vision" />
+        <br>Computer Vision
+      </td>
+      <td width="120" align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/3662/3662817.png" width="45" alt="NLP" />
+        <br>NLP
+      </td>
+    </tr>
+  </table>
+</div>
 
-- A web server or hosting service (GitHub Pages, Netlify, Vercel, etc.)
-- Basic knowledge of HTML/CSS/JavaScript
+<!-- GitHub Stats with animations -->
+<div align="center">
+  <h3>📈 GITHUB STATS</h3>
+  <a href="https://github.com/dinhgia2106">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhgia2106&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&ring_color=ffffff&include_all_commits=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/dinhgia2106">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgia2106&layout=compact&langs_count=6&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  </a>
+</div>
 
-### Installation
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=dinhgia2106&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
+</div>
 
-1. Clone or download this repository
-2. Upload the files to your web server or hosting service
-3. Replace placeholder content with your own information
+<br>
 
-### Customization
+<!-- Dynamic activity chart -->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dinhgia2106&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+  </a>
+</div>
 
-#### Update Personal Information
+<hr>
 
-- Edit the `index.html` file to update:
-  - Name and title
-  - About section information
-  - Skills and technologies
-  - Projects
-  - Contact information
-  - Social media links
+<br>
 
-#### Customize Colors
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dinhgia2106&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-The website uses CSS variables for easy color customization:
-
-```css
-:root {
-  --primary-color: #36bcf7;
-  --secondary-color: #8f44fd;
-  /* Other colors and variables */
-}
-```
-
-Edit these variables in the `assets/css/style.css` file to match your preferred color scheme.
-
-#### GitHub Stats Integration
-
-This portfolio uses [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for displaying GitHub statistics. Replace `dinhgia2106` with your GitHub username in these locations:
-
-```html
-<img
-  src="https://github-readme-stats.vercel.app/api?username=dinhgia2106&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117"
-  alt="GitHub Stats"
-/>
-```
-
-#### Profile Picture
-
-Replace the profile image URL with your own:
-
-```html
-<img
-  src="https://avatars.githubusercontent.com/u/dinhgia2106"
-  alt="Dinh Gia"
-  class="profile-image"
-/>
-```
-
-## Usage Notes
-
-### Typing Effect
-
-The typing effect on the home page displays these phrases in sequence:
-
-```javascript
-const texts = [
-  "AI & Machine Learning Engineer",
-  "Data Scientist",
-  "Deep Learning Researcher",
-  "Always exploring new algorithms",
-];
-```
-
-Edit this array in `assets/js/main.js` to customize the typing effect.
-
-### Contact Form
-
-The contact form is set up for demonstration purposes. To make it functional, you'll need to implement server-side processing or use a form submission service like Formspree. Update the form action accordingly:
-
-```html
-<form
-  id="contact-form"
-  class="contact-form"
-  action="https://formspree.io/your-email@example.com"
-  method="POST"
-></form>
-```
-
-## Current Website Information
-
-- Last updated: 2025-03-01
-- Current user: dinhgia2106
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+<div align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn" width="100%"/></a>
+</div>
