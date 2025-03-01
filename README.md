@@ -64,13 +64,13 @@ My goal is to develop AI solutions that are not only technically sound but also 
   
 | Skill | Proficiency |
 |-------|-------------|
-| Machine Learning | ![90%](https://progress-bar.dev/90?title=Advanced) |
-| Deep Learning | ![80%](https://progress-bar.dev/80?title=Proficient) |
-| Computer Vision | ![85%](https://progress-bar.dev/85?title=Advanced) |
-| NLP | ![75%](https://progress-bar.dev/75?title=Competent) |
-| Data Visualization | ![90%](https://progress-bar.dev/90?title=Advanced) |
-| MLOps | ![60%](https://progress-bar.dev/60?title=Intermediate) |
-| AI Ethics | ![70%](https://progress-bar.dev/70?title=Competent) |
+| Machine Learning | ![](https://img.shields.io/badge/Advanced-90%25-brightgreen) |
+| Deep Learning | ![](https://img.shields.io/badge/Proficient-80%25-green) |
+| Computer Vision | ![](https://img.shields.io/badge/Advanced-85%25-brightgreen) |
+| NLP | ![](https://img.shields.io/badge/Competent-75%25-yellowgreen) |
+| Data Visualization | ![](https://img.shields.io/badge/Advanced-90%25-brightgreen) |
+| MLOps | ![](https://img.shields.io/badge/Intermediate-60%25-yellow) |
+| AI Ethics | ![](https://img.shields.io/badge/Competent-70%25-yellowgreen) |
 
 </div>
 
