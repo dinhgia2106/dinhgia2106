@@ -1,101 +1,79 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=%GrazT&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
-
 <p align="center">
-  <a href="https://github.com/dinhgia2106"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Deep+Learning+Researcher;Language+Model+Engineer;Computer+Vision+Specialist;Reinforcement+Learning+Enthusiast;Neural+Network+Architect" alt="Typing SVG" /></a>
+  <img src="./assets/header.svg" width="100%" alt="GrazT — Building AI that sees, reads, and understands." />
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/grazt/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:contact@dinhgia2106.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/grazt/"><img src="https://img.shields.io/badge/LinkedIn-Connect-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:contact@dinhgia2106.com"><img src="https://img.shields.io/badge/Email-Say%20hello-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Send an email" /></a>
+  &nbsp;
+  <a href="https://github.com/dinhgia2106?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Explore my repositories" /></a>
+</p>
 
-<br>
+### A little about me
 
-<div align="center">
-  <h3>⚡ AI EXPERTISE</h3>
-  <p>
-    Building intelligent systems that understand, learn, and evolve.<br>
-    From neural architectures to ethical AI deployment.
-  </p>
-</div>
+I'm **GrazT**. I build AI projects across **computer vision**, **natural language processing**, and **deep learning** — from retrieving useful answers to reading text in images.
 
-<hr>
+My work brings together models, data pipelines, and applications. Here are a few things I've built.
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="120" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow" class="animate-pulse" />
-        <br>TensorFlow
-      </td>
-      <td width="120" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch" class="animate-bounce" />
-        <br>PyTorch
-      </td>
-      <td width="120" align="center">
-        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="45" alt="Hugging Face" class="animate-spin" />
-        <br>Hugging Face
-      </td>
-      <td width="120" align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" alt="scikit-learn" />
-        <br>scikit-learn
-      </td>
-    </tr>
-    <tr>
-      <td width="120" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" />
-        <br>Python
-      </td>
-      <td width="120" align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="45" alt="Deep Learning" />
-        <br>Deep Learning
-      </td>
-      <td width="120" align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="45" alt="Computer Vision" />
-        <br>Computer Vision
-      </td>
-      <td width="120" align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/3662/3662817.png" width="45" alt="NLP" />
-        <br>NLP
-      </td>
-    </tr>
-  </table>
-</div>
+### Selected work
 
-<!-- GitHub Stats with animations -->
-<div align="center">
-  <h3>📈 GITHUB STATS</h3>
-  <a href="https://github.com/dinhgia2106">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhgia2106&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&ring_color=ffffff&include_all_commits=true&rank_icon=github" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/dinhgia2106/FPTU_RAG">FPTU RAG</a></h3>
+      <p>An AI assistant for university information, combining vector retrieval with multi-hop question answering.</p>
+      <p><code>RAG</code> <code>FAISS</code> <code>Flask</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/dinhgia2106/OCR">Text recognition</a></h3>
+      <p>A two-stage OCR pipeline: detect text regions with YOLOv11, then recognize their contents with CRNN.</p>
+      <p><code>Computer vision</code> <code>YOLOv11</code> <code>CRNN</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/dinhgia2106/Visual-Question-Answering">Visual question answering</a></h3>
+      <p>Connecting images and language with CNN + LSTM and ViT + RoBERTa models to answer questions about images.</p>
+      <p><code>Multimodal AI</code> <code>ViT</code> <code>RoBERTa</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/dinhgia2106/Helmet-detect-by-YOLOv10">Helmet detection</a></h3>
+      <p>An object detection project using YOLOv10, covering data preparation, training, inference, and evaluation.</p>
+      <p><code>Object detection</code> <code>YOLOv10</code></p>
+    </td>
+  </tr>
+</table>
+
+### Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1726?style=flat-square&amp;logo=python&amp;logoColor=5EEAD4" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1726?style=flat-square&amp;logo=pytorch&amp;logoColor=5EEAD4" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D1726?style=flat-square&amp;logo=tensorflow&amp;logoColor=5EEAD4" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0D1726?style=flat-square&amp;logo=huggingface&amp;logoColor=5EEAD4" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/scikit--learn-0D1726?style=flat-square&amp;logo=scikitlearn&amp;logoColor=5EEAD4" alt="scikit-learn" />
+</p>
+
+### GitHub at a glance
+
+<!-- Public repository statistics. Notebook containers are excluded from the language breakdown. -->
+<p align="center">
+  <a href="https://github.com/dinhgia2106?tab=repositories">
+    <img width="440" align="top" src="https://github-stats-extended.vercel.app/api?username=dinhgia2106&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=false&amp;border_radius=16&amp;border_color=243247&amp;bg_color=0D1726&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;card_width=440&amp;custom_title=GitHub%20activity&amp;disable_animations=true" alt="GrazT's public GitHub activity" />
   </a>
-  <a href="https://github.com/dinhgia2106">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhgia2106&layout=compact&langs_count=6&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/dinhgia2106?tab=repositories">
+    <img width="440" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dinhgia2106&amp;layout=compact&amp;langs_count=6&amp;hide=Jupyter%20Notebook&amp;hide_border=false&amp;border_radius=16&amp;border_color=243247&amp;bg_color=0D1726&amp;title_color=5EEAD4&amp;text_color=CBD5E1&amp;card_width=440&amp;disable_animations=true" alt="Most used languages across public repositories, excluding Jupyter Notebook" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=dinhgia2106&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <sub>Language percentages reflect repository code size.</sub>
+</p>
 
-<br>
+<br />
 
-<!-- Dynamic activity chart -->
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dinhgia2106&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
-  </a>
-</div>
-
-<hr>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinhgia2106&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn" width="100%"/></a>
-</div>
+<p align="center">
+  <b>Let's build something useful.</b><br />
+  <sub>Ideas, experiments, and collaborations welcome.</sub>
+</p>
