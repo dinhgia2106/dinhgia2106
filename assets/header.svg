@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">GrazT</title>
-  <desc id="desc">Building AI that sees, reads, and understands. A navy banner with a teal neural network illustration.</desc>
+  <desc id="desc">Building useful software, from idea to everyday use. A navy banner with connected teal nodes.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0D1726"/>
@@ -24,10 +24,10 @@
     <rect width="1200" height="360" fill="url(#grid)"/>
     <rect width="1200" height="360" fill="url(#glow)"/>
     <path d="M62 62H106" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
-    <text x="120" y="68" fill="#5EEAD4" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">AI / VISION / LANGUAGE</text>
+    <text x="120" y="68" fill="#5EEAD4" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">SOFTWARE / PRODUCTS / AI</text>
     <text x="58" y="186" fill="#F1F5F9" font-family="'Segoe UI',Arial,sans-serif" font-size="102" font-weight="700" letter-spacing="-5">GrazT<tspan fill="#5EEAD4">.</tspan></text>
-    <text x="64" y="236" fill="#CBD5E1" font-family="'Segoe UI',Arial,sans-serif" font-size="25">Building AI that sees, reads,</text>
-    <text x="64" y="272" fill="#CBD5E1" font-family="'Segoe UI',Arial,sans-serif" font-size="25">and understands.</text>
+    <text x="64" y="236" fill="#CBD5E1" font-family="'Segoe UI',Arial,sans-serif" font-size="25">Building useful software,</text>
+    <text x="64" y="272" fill="#CBD5E1" font-family="'Segoe UI',Arial,sans-serif" font-size="25">from idea to everyday use.</text>
     <text x="64" y="323" fill="#64748B" font-family="'Consolas',monospace" font-size="14" letter-spacing="1">dinhgia2106 / experiments into applications</text>
     <g stroke="url(#line)" stroke-width="1.5" stroke-opacity=".25">
       <path d="M780 108L905 70L1040 116L1140 80M780 108L905 178L1040 116L1140 180M780 108L905 288L1040 250L1140 280"/>

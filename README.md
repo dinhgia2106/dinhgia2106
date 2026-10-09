@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="GrazT — Building AI that sees, reads, and understands." />
+  <img src="./assets/header.svg" width="100%" alt="GrazT — Building useful software, from idea to everyday use." />
 </p>
 
 <p align="center">
@@ -12,13 +12,25 @@
 
 ### A little about me
 
-I'm **GrazT**. I build AI projects across **computer vision**, **natural language processing**, and **deep learning** — from retrieving useful answers to reading text in images.
+I'm **GrazT**. I build **software, products, and AI tools** — from Vietnamese input software and social apps to retrieval assistants and computer vision systems.
 
-My work brings together models, data pipelines, and applications. Here are a few things I've built.
+I enjoy turning ideas into useful applications, bringing together thoughtful interfaces, reliable engineering, and AI where it helps.
 
 ### Selected work
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/dinhgia2106/VIMEK">VIMEK</a></h3>
+      <p>A Vietnamese input method with integrated AI, bringing intelligent assistance to everyday typing.</p>
+      <p><code>Vietnamese input</code> <code>AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tila.asia/">TILA</a></h3>
+      <p>A social app for sharing moments, building habits, and taking on daily challenges with close friends.</p>
+      <p><code>Flutter</code> <code>Social</code> <code>Habits</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dinhgia2106/FPTU_RAG">FPTU RAG</a></h3>
@@ -31,21 +43,16 @@ My work brings together models, data pipelines, and applications. Here are a few
       <p><code>Computer vision</code> <code>YOLOv11</code> <code>CRNN</code></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dinhgia2106/Visual-Question-Answering">Visual question answering</a></h3>
-      <p>Connecting images and language with CNN + LSTM and ViT + RoBERTa models to answer questions about images.</p>
-      <p><code>Multimodal AI</code> <code>ViT</code> <code>RoBERTa</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dinhgia2106/Helmet-detect-by-YOLOv10">Helmet detection</a></h3>
-      <p>An object detection project using YOLOv10, covering data preparation, training, inference, and evaluation.</p>
-      <p><code>Object detection</code> <code>YOLOv10</code></p>
-    </td>
-  </tr>
 </table>
 
 ### Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0D1726?style=flat-square&amp;logo=flutter&amp;logoColor=5EEAD4" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0D1726?style=flat-square&amp;logo=dart&amp;logoColor=5EEAD4" alt="Dart" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1726?style=flat-square&amp;logo=typescript&amp;logoColor=5EEAD4" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1726?style=flat-square&amp;logo=cplusplus&amp;logoColor=5EEAD4" alt="C++" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1726?style=flat-square&amp;logo=python&amp;logoColor=5EEAD4" alt="Python" />
@@ -57,10 +64,12 @@ My work brings together models, data pipelines, and applications. Here are a few
 
 ### GitHub at a glance
 
-<!-- Public repository statistics. Notebook containers are excluded from the language breakdown. -->
+<!-- The local activity card is refreshed by GitHub Actions with PROFILE_STATS_TOKEN.
+     The bootstrap card is explicitly public-only until that secret is configured.
+     Language statistics use public repositories and exclude Jupyter Notebook. -->
 <p align="center">
   <a href="https://github.com/dinhgia2106?tab=repositories">
-    <img width="440" align="top" src="https://github-stats-extended.vercel.app/api?username=dinhgia2106&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=false&amp;border_radius=16&amp;border_color=243247&amp;bg_color=0D1726&amp;title_color=5EEAD4&amp;icon_color=5EEAD4&amp;text_color=CBD5E1&amp;card_width=440&amp;custom_title=GitHub%20activity&amp;disable_animations=true" alt="GrazT's public GitHub activity" />
+    <img width="440" align="top" src="./assets/stats.svg" alt="GrazT's all-time GitHub activity — public and private when the statistics token is configured" />
   </a>
   <a href="https://github.com/dinhgia2106?tab=repositories">
     <img width="440" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dinhgia2106&amp;layout=compact&amp;langs_count=6&amp;hide=Jupyter%20Notebook&amp;hide_border=false&amp;border_radius=16&amp;border_color=243247&amp;bg_color=0D1726&amp;title_color=5EEAD4&amp;text_color=CBD5E1&amp;card_width=440&amp;disable_animations=true" alt="Most used languages across public repositories, excluding Jupyter Notebook" />
