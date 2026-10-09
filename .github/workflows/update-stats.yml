@@ -1,0 +1,57 @@
+name: Update GitHub statistics
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-stats.yml"
+      - "README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+
+      - name: Require private repository access
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          if [ -z "$PROFILE_STATS_TOKEN" ]; then
+            echo "::error::Add the PROFILE_STATS_TOKEN repository secret with access to your public and private repositories. See docs/stats-setup.md."
+            exit 1
+          fi
+
+      - name: Generate all-time activity card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          path: assets/stats.svg
+          fail_on_error: "true"
+          options: "username=dinhgia2106&include_all_commits=true&show_icons=true&hide_rank=true&hide_border=false&border_radius=16&border_color=243247&bg_color=0D1726&title_color=5EEAD4&icon_color=5EEAD4&text_color=CBD5E1&card_width=440&custom_title=GitHub%20activity&number_format=long&disable_animations=true"
+
+      - name: Commit updated statistics
+        run: |
+          git add assets/stats.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update all-time GitHub statistics"
+          git push origin HEAD:main
