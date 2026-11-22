@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://dinhgia2106.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Visit my portfolio" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/grazt/"><img src="https://img.shields.io/badge/LinkedIn-Connect-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Connect on LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:contact@dinhgia2106.com"><img src="https://img.shields.io/badge/Email-Say%20hello-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Send an email" /></a>
+  <a href="mailto:dinhgia2106@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Send an email" /></a>
   &nbsp;
   <a href="https://github.com/dinhgia2106?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-143344?style=flat-square&amp;labelColor=0D1726&amp;color=143344" alt="Explore my repositories" /></a>
 </p>
